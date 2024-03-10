@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "smartai"
+  site-url: "https://CausalTruth.github.io/smartai"
+  description: "Package for different AI functions"
+  repo-branch: main
+  repo-url: "https://github.com/CausalTruth/smartai"
